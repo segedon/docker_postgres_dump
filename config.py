@@ -1,0 +1,4 @@
+CONTAINER_NAME = None
+DB_USER = None
+DB_NAME = None
+DUMP_FOLDER = None
